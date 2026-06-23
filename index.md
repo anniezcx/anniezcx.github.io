@@ -55,7 +55,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
   <a href="CTC.pdf">
-    <img src="CTC.jpg" alt="CTC curriculum presentation thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px;">
+    <img src="CTC.jpg" alt="CTC curriculum presentation thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; display: block;">
   </a>
   <div>
     <p>
@@ -68,7 +68,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
   <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA">
-    <img src="Positioning.png" alt="Student self-positioning presentation thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px;">
+    <img src="Positioning.png" alt="Student self-positioning presentation thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; display: block;">
   </a>
   <div>
     <p>
@@ -81,7 +81,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
   <a href="https://aera26.ipostersessions.com/Default.aspx?s=78-3D-39-8D-93-35-24-3B-DB-F4-94-2B-D2-03-E2-FC">
-    <img src="Avatar.png" alt="AI-generated instructor avatars poster thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px;">
+    <img src="Avatar.png" alt="AI-generated instructor avatars poster thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; display: block;">
   </a>
   <div>
     <p>
