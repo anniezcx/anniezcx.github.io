@@ -27,7 +27,7 @@
   <li>Community-engaged learning</li>
   <li>Culturally responsive mathematics education</li>
   <li>Learning sciences</li>
-  <li>ducational technology</li>
+  <li>Educational technology</li>
 </ul>
 
 
