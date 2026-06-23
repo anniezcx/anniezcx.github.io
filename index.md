@@ -46,9 +46,6 @@
   </li>
 </ul>
 
-<h2>Conference Presentations</h2>
-
-```html
 <h2>Selected Presentations</h2>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
@@ -65,7 +62,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
-  <a href="Positioning.pdf">
+  <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA">
     <img src="Positioning.jpeg" alt="Student self-positioning presentation thumbnail" style="width: 180px; border-radius: 8px;">
   </a>
   <div>
@@ -78,7 +75,7 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
-  <a href="Avatar.pdf">
+  <a href="https://aera26.ipostersessions.com/Default.aspx?s=78-3D-39-8D-93-35-24-3B-DB-F4-94-2B-D2-03-E2-FC">
     <img src="Avatar.jpeg" alt="AI-generated instructor avatars poster thumbnail" style="width: 180px; border-radius: 8px;">
   </a>
   <div>
@@ -89,5 +86,5 @@
     </p>
   </div>
 </div>
-```
+
 
