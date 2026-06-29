@@ -35,8 +35,8 @@
 
 <ul>
   <li>
-    <strong>Zhou, A.</strong>, Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). A community-engaged curriculum design model for culturally responsive tech consulting. 
-    <em>Proceedings of the 20th International Conference of the Learning Sciences (ICLS 2026)</em> (pp. 1797–1801). Irvine, USA: International Society of the Learning Sciences.
+    <strong>Zhou, A.</strong>, Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). A community-engaged curriculum design model for culturally responsive tech consulting. In 
+    <em>Proceedings of the 20th International Conference of the Learning Sciences (ICLS 2026)</em> (pp. 1797–1801). International Society of the Learning Sciences.
   </li>
 
   <li>
