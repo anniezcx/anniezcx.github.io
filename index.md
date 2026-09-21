@@ -56,7 +56,7 @@
 
 <h2>Selected Presentations</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="CTC.pdf" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="CTC.jpg" alt="CTC curriculum presentation thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> <strong>Zhou, A.</strong> (2026, April). <em>A community-engaged curriculum design model for culturally responsive tech consulting.</em> Short paper session accepted for presentation at the 20th International Conference of the Learning Sciences (ICLS 2026). </p> </div> </div>
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="CTC.pdf" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="CTC.jpg" alt="CTC curriculum presentation thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> <strong>Zhou, A.</strong> (2026, June). <em>A community-engaged curriculum design model for culturally responsive tech consulting.</em> Short paper session accepted for presentation at the 20th International Conference of the Learning Sciences (ICLS 2026). </p> </div> </div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
   <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA" style="flex-shrink: 0;">
