@@ -82,6 +82,8 @@
     </div>
   </a>
 
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="https://aialoe.org/webinar-ai-aloe-webinar-with-rebecca-quintana-and-annie-zhou-from-the-university-of-michigan/" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="AI-ALOE.jpeg" alt="AI-ALOE presentation thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> Quintana, R. M. & <strong>Zhou, A.</strong> (2026, February). <em>Designing for Learner Engagement with Instructor Avatars in AI-Produced MOOC Videos</em> [Presentation]. AI Institute for Adult Learning and Online Education. </p> </div> </div>
+
   <div>
     <p>
       <strong>Zhou, A.</strong> (2026, April). 
