@@ -69,8 +69,31 @@
 
 <h2>Selected Presentations</h2>
 
-<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="CTC.pdf" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="CTC.jpg" alt="CTC curriculum presentation thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> <strong>Zhou, A.</strong> (2026, June). <em>A community-engaged curriculum design model for culturally responsive tech consulting.</em> Short paper session accepted for presentation at the 20th International Conference of the Learning Sciences (ICLS 2026). </p> </div> </div>
+<!-- ICLS 2026 -->
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
 
+  <a href="CTC.pdf" style="flex-shrink: 0;">
+    <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;">
+      <img
+        src="CTC.jpg"
+        alt="CTC curriculum presentation thumbnail"
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+      >
+    </div>
+  </a>
+
+  <div>
+    <p style="margin-top: 0;">
+      <strong>Zhou, A.</strong> (2026, June).
+      <em>A community-engaged curriculum design model for culturally responsive tech consulting</em>.
+      Short paper session accepted for presentation at the 20th International Conference of the Learning Sciences (ICLS 2026).
+    </p>
+  </div>
+
+</div>
+
+
+<!-- AERA 2026: Student Self-Positioning -->
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
 
   <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA" style="flex-shrink: 0;">
@@ -84,28 +107,55 @@
   </a>
 
   <div>
-    <p>
-      <!-- Put your first presentation citation here -->
+    <p style="margin-top: 0;">
+      <strong>Zhou, A.</strong> (2026, April).
+      <em>Student self-positioning and the development of mathematical competencies</em>.
+      Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
     </p>
   </div>
 
 </div>
 
 
+<!-- AERA 2026: AI-Generated Instructor Avatars -->
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
 
-  <a href="https://aialoe.org/webinar-ai-aloe-webinar-with-rebecca-quintana-and-annie-zhou-from-the-university-of-michigan/" style="flex-shrink: 0;">
+  <a href="https://aera26.ipostersessions.com/Default.aspx?s=78-3D-39-8D-93-35-24-3B-DB-F4-94-2B-D2-03-E2-FC" style="flex-shrink: 0;">
     <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;">
       <img
-        src="AI-ALOE.jpeg"
-        alt="AI-ALOE presentation thumbnail"
+        src="Avatar.png"
+        alt="AI-generated instructor avatars poster thumbnail"
         style="width: 100%; height: 100%; object-fit: cover; display: block;"
       >
     </div>
   </a>
 
   <div>
-    <p>
+    <p style="margin-top: 0;">
+      Quintana, R. M., &amp; <strong>Zhou, A.</strong> (2026, April).
+      <em>Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs</em>.
+      Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
+    </p>
+  </div>
+
+</div>
+
+
+<!-- AI-ALOE Webinar -->
+<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
+
+  <a href="https://aialoe.org/webinar-ai-aloe-webinar-with-rebecca-quintana-and-annie-zhou-from-the-university-of-michigan/" style="flex-shrink: 0;">
+    <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;">
+      <img
+        src="AI-ALOE.jpeg"
+        alt="AI-ALOE webinar thumbnail"
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+      >
+    </div>
+  </a>
+
+  <div>
+    <p style="margin-top: 0;">
       Quintana, R. M., &amp; <strong>Zhou, A.</strong> (2026, February).
       <em>Designing for learner engagement with instructor avatars in AI-produced MOOC videos</em>
       [Webinar]. AI Institute for Adult Learning and Online Education.
@@ -113,17 +163,6 @@
   </div>
 
 </div>
-
-  <div>
-    <p>
-      <strong>Zhou, A.</strong> (2026, April). 
-      <em>Student Self-Positioning and the Development of Mathematical Competencies.</em>
-      Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
-    </p>
-  </div>
-</div>
-
-<div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="https://aera26.ipostersessions.com/Default.aspx?s=78-3D-39-8D-93-35-24-3B-DB-F4-94-2B-D2-03-E2-FC" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="Avatar.png" alt="AI-generated instructor avatars poster thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> Quintana, R. M., &amp; <strong>Zhou, A.</strong> (2026, April). <em>Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs.</em> Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA). </p> </div> </div>
 
 <h2>Public Scholarship</h2>
 <ul>
