@@ -1,23 +1,46 @@
+<div style="display: flex; align-items: flex-start; gap: 36px;">
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
-
-  <div style="flex: 1;">
+  <div style="flex: 1; min-width: 0;">
 
     <h1>Annie (Chenxi) Zhou</h1>
 
-    <p>📧 Email: annie.zhou (at) wisc (dot) edu</p>
-
-    <p>🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a></p>
+    <p>
+      📧 Email: annie.zhou (at) wisc (dot) edu
+    </p>
 
     <p>
-      I am a Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by <a href="https://berland.org/">Prof. Matthew Berland</a>. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
+      🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a>
     </p>
-    
-    <p>📄 You can find my curriculum vitae here: <a href="Annie_Zhou_CV.pdf">CV</a>.</p>
-    <p>💛 Research interests: community-engaged learning; culturally responsive mathematics education; learning sciences; educational technology</p>
 
-<img src="./Anniezhou_Headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
+    <p>
+      I am a Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by
+      <a href="https://berland.org/">Prof. Matthew Berland</a>.
+      As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
+    </p>
 
+    <p>
+      📄 You can find my curriculum vitae here:
+      <a href="Annie_Zhou_CV.pdf">CV</a>.
+    </p>
+
+    <p>
+      💛 Research interests: community-engaged learning; culturally responsive mathematics education; learning sciences; educational technology
+    </p>
+
+  </div>
+
+  <img
+    src="./Anniezhou_Headshot.jpeg"
+    alt="Profile photo"
+    width="220"
+    style="
+      border-radius: 8px;
+      flex-shrink: 0;
+      display: block;
+    "
+  >
+
+</div>
 
 
 <h2>Selected Publications</h2>
