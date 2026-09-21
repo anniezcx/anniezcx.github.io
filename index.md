@@ -35,11 +35,11 @@
 
 <ul>
   <li>
-    Zhou, A., Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). <a href="https://2026.isls.org/docs/ICLS%20Volume%202026.pdf" target="_blank" rel="noopener noreferrer"> A community-engaged curriculum design model for culturally-responsive tech consulting </a>. In B. K. Litts, D. DeLiema, C. Lee, S. Krist, A. Mawasi, L. Martin, &amp; K. Kumpulainen (Eds.), <em>Proceedings of the 20th International Conference of the Learning Sciences: ICLS 2026</em> (pp. 1797&ndash;1801). International Society of the Learning Sciences.
+    <strong>Zhou, A.</strong>, Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). <a href="https://2026.isls.org/docs/ICLS%20Volume%202026.pdf" target="_blank" rel="noopener noreferrer"> A community-engaged curriculum design model for culturally-responsive tech consulting </a>. In B. K. Litts, D. DeLiema, C. Lee, S. Krist, A. Mawasi, L. Martin, &amp; K. Kumpulainen (Eds.), <em>Proceedings of the 20th International Conference of the Learning Sciences: ICLS 2026</em> (pp. 1797&ndash;1801). International Society of the Learning Sciences.
   </li>
 
   <li>
-    Quintana, R., Tan, Y., Quintana, C., Zhou, A., & Wu, J. (2026). Mapping practitioner openness and hesitation toward GenAI integration in learning design. In Advances in quantitative ethnography: 8th International Conference on Quantitative Ethnography, ICQE 2026, Hiroshima, Japan, November 9–13, 2026, proceedings. Springer.
+    Quintana, R., Tan, Y., Quintana, C., <strong>Zhou, A.</strong>, & Wu, J. (2026). Mapping practitioner openness and hesitation toward GenAI integration in learning design. In Advances in quantitative ethnography: 8th International Conference on Quantitative Ethnography, ICQE 2026, Hiroshima, Japan, November 9–13, 2026, proceedings. Springer.
   </li>
   
   <li>
