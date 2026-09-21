@@ -83,10 +83,10 @@
 <h2>Public Scholarship</h2>
 <ul>
   <li>
-    <strong>Zhou, A.</strong> (2025, June). <a href="https://blogs.lib.umich.edu/student-stories/good-teaching-historical-perspective-culturally-responsive-teaching“>Good teaching from a historical perspective: Culturally responsive teaching</a>. University of Michigan Library Student Stories Blog.
+   <strong>Zhou, A.</strong> (2025, June). <a href="https://blogs.lib.umich.edu/student-stories/good-teaching-historical-perspective-culturally-responsive-teaching">Good teaching from a historical perspective: Culturally responsive teaching</a>. <em>University of Michigan Library Student Stories Blog</em>.
   </li>
   <li>
-    <strong>Zhou, A.</strong> (2025, February). <a href="https://sites.lsa.umich.edu/equitable-teaching/stories-of-culturally-responsive-teaching-from-frontline-instructors/">Stories of culturally responsive teaching from frontline instructors</a>. Equitable Teaching Project, University of Michigan.
+    <strong>Zhou, A.</strong> (2025, February). <a href="https://sites.lsa.umich.edu/equitable-teaching/stories-of-culturally-responsive-teaching-from-frontline-instructors/">Stories of culturally responsive teaching from frontline instructors</a>. <em>Equitable Teaching Project, University of Michigan</em>.
   </li>
  </ul>
 
