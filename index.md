@@ -81,4 +81,13 @@
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;"> <a href="https://aera26.ipostersessions.com/Default.aspx?s=78-3D-39-8D-93-35-24-3B-DB-F4-94-2B-D2-03-E2-FC" style="flex-shrink: 0;"> <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;"> <img src="Avatar.png" alt="AI-generated instructor avatars poster thumbnail" style="width: 100%; height: 100%; object-fit: cover; display: block;" > </div> </a> <div> <p> Quintana, R. M., &amp; <strong>Zhou, A.</strong> (2026, April). <em>Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs.</em> Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA). </p> </div> </div>
 
+<h2>Public Scholarship</h2>
+<ul>
+  <li>
+    Zhou, A. (2025, June). Good teaching from a historical perspective: Culturally responsive teaching. University of Michigan Library Student Stories Blog. https://blogs.lib.umich.edu/student-stories/good-teaching-historical-perspective-culturally-responsive-teaching<img width="468" height="61" alt="image" src="https://github.com/user-attachments/assets/0d7d5207-7b15-4671-af8b-ad9d21e5fb1c" />
+  </li>
+  <li>
+    Zhou, A. (2025, February). Stories of culturally responsive teaching from frontline instructors. Equitable Teaching Project, University of Michigan. https://sites.lsa.umich.edu/equitable-teaching/stories-of-culturally-responsive-teaching-from-frontline-instructors/<img width="468" height="61" alt="image" src="https://github.com/user-attachments/assets/a1f99962-a507-4c22-86a1-807d0b8e1d15" />
 
+  </li>
+ </ul>
