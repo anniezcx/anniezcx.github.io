@@ -9,7 +9,7 @@
     <p>🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a></p>
 
     <p>
-      I am an incoming Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by <a href="https://berland.org/">Prof. Matthew Berland</a>. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
+      I am a Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by <a href="https://berland.org/">Prof. Matthew Berland</a>. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
     </p>
     
     <p>📄 You can find my curriculum vitae here: <a href="Annie_Zhou_CV.pdf">CV</a>.</p>
@@ -38,6 +38,11 @@
     Zhou, A., Seefeldt, K., Hui, J., Bare, C., Sanifu, L., &amp; Dillahunt, T. R. (2026). <a href="https://2026.isls.org/docs/ICLS%20Volume%202026.pdf" target="_blank" rel="noopener noreferrer"> A community-engaged curriculum design model for culturally-responsive tech consulting </a>. In B. K. Litts, D. DeLiema, C. Lee, S. Krist, A. Mawasi, L. Martin, &amp; K. Kumpulainen (Eds.), <em>Proceedings of the 20th International Conference of the Learning Sciences: ICLS 2026</em> (pp. 1797&ndash;1801). International Society of the Learning Sciences.
   </li>
 
+  <li>
+    Quintana, R., Tan, Y., Quintana, C., Zhou, A., & Wu, J. (2026). Mapping practitioner openness and hesitation toward GenAI integration in learning design. In Advances in quantitative ethnography: 8th International Conference on Quantitative Ethnography, ICQE 2026, Hiroshima, Japan, November 9–13, 2026, proceedings. Springer.<img width="468" height="77" alt="image" src="https://github.com/user-attachments/assets/b632286c-c5bc-43d0-be04-3de9de031328" />
+
+  </li>
+  
   <li>
     <strong>Zhou, A.</strong> (2026, April). 
     <em>Student Self-Positioning and the Development of Mathematical Competencies.</em> Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
