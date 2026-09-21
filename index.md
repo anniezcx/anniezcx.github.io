@@ -21,10 +21,8 @@
 
 </div>
 
-
-<h2>Research Interests</h2>
-
 <ul>
+  💛 Research Interests
   <li>Community-engaged learning</li>
   <li>Culturally responsive mathematics education</li>
   <li>Learning sciences</li>
