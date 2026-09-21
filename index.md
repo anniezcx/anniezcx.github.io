@@ -39,8 +39,7 @@
   </li>
 
   <li>
-    Quintana, R., Tan, Y., Quintana, C., Zhou, A., & Wu, J. (2026). Mapping practitioner openness and hesitation toward GenAI integration in learning design. In Advances in quantitative ethnography: 8th International Conference on Quantitative Ethnography, ICQE 2026, Hiroshima, Japan, November 9–13, 2026, proceedings. Springer.<img width="468" height="77" alt="image" src="https://github.com/user-attachments/assets/b632286c-c5bc-43d0-be04-3de9de031328" />
-
+    Quintana, R., Tan, Y., Quintana, C., Zhou, A., & Wu, J. (2026). Mapping practitioner openness and hesitation toward GenAI integration in learning design. In Advances in quantitative ethnography: 8th International Conference on Quantitative Ethnography, ICQE 2026, Hiroshima, Japan, November 9–13, 2026, proceedings. Springer.
   </li>
   
   <li>
@@ -84,10 +83,9 @@
 <h2>Public Scholarship</h2>
 <ul>
   <li>
-    Zhou, A. (2025, June). Good teaching from a historical perspective: Culturally responsive teaching. University of Michigan Library Student Stories Blog. https://blogs.lib.umich.edu/student-stories/good-teaching-historical-perspective-culturally-responsive-teaching<img width="468" height="61" alt="image" src="https://github.com/user-attachments/assets/0d7d5207-7b15-4671-af8b-ad9d21e5fb1c" />
+    Zhou, A. (2025, June). Good teaching from a historical perspective: Culturally responsive teaching. University of Michigan Library Student Stories Blog. https://blogs.lib.umich.edu/student-stories/good-teaching-historical-perspective-culturally-responsive-teaching
   </li>
   <li>
-    Zhou, A. (2025, February). Stories of culturally responsive teaching from frontline instructors. Equitable Teaching Project, University of Michigan. https://sites.lsa.umich.edu/equitable-teaching/stories-of-culturally-responsive-teaching-from-frontline-instructors/<img width="468" height="61" alt="image" src="https://github.com/user-attachments/assets/a1f99962-a507-4c22-86a1-807d0b8e1d15" />
-
+    Zhou, A. (2025, February). Stories of culturally responsive teaching from frontline instructors. Equitable Teaching Project, University of Michigan. https://sites.lsa.umich.edu/equitable-teaching/stories-of-culturally-responsive-teaching-from-frontline-instructors/
   </li>
  </ul>
