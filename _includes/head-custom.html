@@ -1,1 +1,90 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥑</text></svg>">
+<style>
+  :root {
+    --bg-color: #ffffff;
+    --text-color: #24292f;
+    --heading-color: #1f2328;
+    --link-color: #0969da;
+    --border-color: #d0d7de;
+  }
+
+  body.dark-mode {
+    --bg-color: #2f343a;
+    --text-color: #e4e7eb;
+    --heading-color: #f6f7f8;
+    --link-color: #9fc4ea;
+    --border-color: #50565d;
+  }
+
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-color);
+  }
+
+  p, li {
+    color: var(--text-color);
+  }
+
+  a {
+    color: var(--link-color);
+  }
+
+  hr {
+    border-color: var(--border-color);
+  }
+
+  #theme-toggle {
+    position: fixed;
+    top: 18px;
+    right: 22px;
+    z-index: 9999;
+    border: none;
+    background: transparent;
+    color: var(--text-color);
+    font-size: 22px;
+    cursor: pointer;
+    padding: 6px;
+    line-height: 1;
+  }
+
+  #theme-toggle:hover {
+    opacity: 0.7;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const button = document.createElement("button");
+    button.id = "theme-toggle";
+    button.type = "button";
+    button.setAttribute("aria-label", "Toggle dark mode");
+
+    const savedTheme = localStorage.getItem("theme");
+
+    if (savedTheme === "dark") {
+      document.body.classList.add("dark-mode");
+      button.textContent = "☀";
+    } else {
+      button.textContent = "☾";
+    }
+
+    button.addEventListener("click", function () {
+      document.body.classList.toggle("dark-mode");
+
+      if (document.body.classList.contains("dark-mode")) {
+        localStorage.setItem("theme", "dark");
+        button.textContent = "☀";
+      } else {
+        localStorage.setItem("theme", "light");
+        button.textContent = "☾";
+      }
+    });
+
+    document.body.appendChild(button);
+  });
+</script>
