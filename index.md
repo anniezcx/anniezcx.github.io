@@ -20,7 +20,7 @@
 
     <p>
       📄 You can find my curriculum vitae here:
-      <a href="Annie_Zhou_CV.pdf">CV</a>.
+      <a href="Zhou_Annie_CV.pdf">CV</a>.
     </p>
 
     <p>
