@@ -2,7 +2,7 @@
 
   <div style="flex: 1; min-width: 0;">
 
-    <h1>Annie (Chenxi) Zhou</h1>
+    <h1 style="margin-top: 0;">Annie (Chenxi) Zhou</h1>
 
     <p>
       📧 Email: annie.zhou (at) wisc (dot) edu
@@ -37,6 +37,7 @@
       border-radius: 8px;
       flex-shrink: 0;
       display: block;
+      margin-top: 0;
     "
   >
 
