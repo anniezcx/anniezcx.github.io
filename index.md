@@ -14,13 +14,9 @@
     </p>
     
     <p>📄 You can find my curriculum vitae here: <a href="Annie_Zhou_CV.pdf">CV</a>.</p>
-    <p>💛 Research interests: community-engaged learning; culturally responsive mathematics education; learning sciences; educational technology
+    <p>💛 Research interests: community-engaged learning; culturally responsive mathematics education; learning sciences; educational technology</p>
 
-  </div>
-
-  <img src="./Anniezhou_Headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
-
-</div>
+<img src="./Anniezhou_Headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
 
 
 
