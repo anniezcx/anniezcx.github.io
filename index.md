@@ -9,7 +9,7 @@
     </p>
 
     <p>
-      🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a>
+      🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a>   🔗 <a href="https://scholar.google.com/citations?user=O4H71ioAAAAJ&hl=en">Google Scholar</a>
     </p>
 
     <p>
